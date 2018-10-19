@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <plist version="1.0">
 <dict>
     <key>items</key>
@@ -15,9 +16,9 @@
                     <key>kind</key>
                     <string>display-image</string>
                     <key>needs-shine</key>
-                    <true/>
+                    <integer>0</integer>
                     <key>url</key>
-                    <string>https://10.191.38.169/57.png</string>
+                    <string><![CDATA[https://pro-icon-qn.fir.im/27a5d382fd1b44e0d6103ab3974b640cd4c157e2?e=1539878010&token=LOvmia8oXF4xnLh0IdH05XMYpH6ENHNpARlmPc-T:3yyESGgknzGNSd_I4LhJeJiptkM=]]></string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -25,7 +26,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://10.191.38.169/512.png</string>
+                    <string><![CDATA[https://pro-icon-qn.fir.im/27a5d382fd1b44e0d6103ab3974b640cd4c157e2?e=1539878010&token=LOvmia8oXF4xnLh0IdH05XMYpH6ENHNpARlmPc-T:3yyESGgknzGNSd_I4LhJeJiptkM=]]></string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -33,11 +34,11 @@
                 <key>bundle-identifier</key>
                 <string>com.mixiaoer.gxfc</string>
                 <key>bundle-version</key>
-                <string>1.0.0</string>
+                <string><![CDATA[1.0.0]]></string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>恭喜发财</string>
+                <string><![CDATA[恭喜发财]]></string>
             </dict>
         </dict>
     </array>
