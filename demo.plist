@@ -9,7 +9,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://ali-fir-pro-binary.fir.im/8ba70e06f801299be2de6d0462143186a5c24891?auth_key=1539876210-0-0-84c51828c2046025b804d56a34b8ec4e</string>
+                    <string>http://gxfcht.ihanqing.com.cn/ATTACHMENT/1539762301.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -29,16 +29,17 @@
                 </dict>
             </array>
             <key>metadata</key>
-      <dict>
-        <key>bundle-identifier</key>
-        <string>com.mixiaoer.gxfc</string>
-        <key>bundle-version</key>
-        <string><1.0.0></string>
-        <key>kind</key>
-        <string>software</string>
-        <key>title</key>
-        <string><恭喜发财></string>
-      </dict>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.mixiaoer.gxfc</string>
+                <key>bundle-version</key>
+                <string>1.0.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>恭喜发财</string>
+            </dict>
+        </dict>
     </array>
 </dict>
 </plist>
